@@ -26,7 +26,7 @@
 
   <div class="container">
     <div class="copyright">
-      &copy; Copyright <strong>NewBiz</strong>. All Rights Reserved
+      &copy; Copyright <strong>Geenius</strong>. All Rights Reserved
       <br>
       <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
     </div>
